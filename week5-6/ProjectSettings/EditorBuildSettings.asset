@@ -12,8 +12,14 @@ EditorBuildSettings:
     path: Assets/Scenes/Main.unity
     guid: 520ef9af99e65a04aa58d30cf411c252
   - enabled: 1
-    path: Assets/Scenes/DialogueScene.unity
+    path: Assets/Scenes/DialogueScene1.unity
     guid: 63d40e88c46ac694a936c2d29a041f10
+  - enabled: 1
+    path: Assets/Scenes/DialogueScene2.unity
+    guid: f0768dfeb3828064aa438e9b5ee1bff7
+  - enabled: 1
+    path: Assets/Scenes/DialogueScene3.unity
+    guid: e4b03d62076c36d47919206dc164cf4a
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
   m_UseUCBPForAssetBundles: 0

@@ -10,9 +10,9 @@ public class DialogueManager : MonoBehaviour
     public string triggerName = "Play"; // ✅ 动画触发参数名
 
     private string[] dialogue = {
-        "……这里是哪里？",
-        "你终于来了。",
-        "让我告诉你事情的真相。"
+        "???:…Where is this place?",
+        "You finally came.",
+        "Let me tell you the truth."
     };
 
     private int index;
